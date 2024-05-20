@@ -1,0 +1,12 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --host 192.168.0.104 --watch data.json -p 90"
+  },
+  "author": "",
+  "license": "ISC"
+}
